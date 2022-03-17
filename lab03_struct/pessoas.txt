@@ -1,0 +1,10 @@
+Lucas;19;1.80
+Santiago;20;1.75
+Vinicius;21;1.90
+Eduardo;45;1.73
+Vitoria;20;1.55
+Gabriel;25;1.73
+Pedro;29;1.94
+Felipe;13;1.43
+Daniel;17;1.68
+Vivian;19;1.53
