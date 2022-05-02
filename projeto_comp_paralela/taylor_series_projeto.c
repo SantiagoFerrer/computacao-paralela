@@ -1,13 +1,14 @@
 #include <stdio.h>
 
-float taylor(int num){
-    float sum = 0;
-    for(int i = 1; i<= sum; i++){
+double taylor(int num) {
+    double sum = 0;
+    double i;
+    for (i = 1; i <= num; i++) {
         sum = sum + (1/i);
     }
     return sum;
 }
 
-int main(){
+int main() {
     printf("%f", taylor(10));
 }
