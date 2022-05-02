@@ -5,7 +5,7 @@
 # Instruções:
 #
 # 1) Como baixar os arquivos?
-# O exercicio é encontrado no link "https://github.com/SantiagoFerrer/computacao-paralela/edit/master/projeto_comp_paralela/README.md", basta realizar o download.
+# O exercicio é encontrado no link "https://github.com/SantiagoFerrer/computacao-paralela/tree/master/projeto_comp_paralela", basta realizar o download.
 #
 # 2) Como compilar os programas?
 # No link no item acima pode ser encontrado o código, basta copiar e colar, assim utilize os compiladores online tais como:
