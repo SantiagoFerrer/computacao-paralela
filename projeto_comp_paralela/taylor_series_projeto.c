@@ -1,4 +1,6 @@
-void taylor(int num){
+#include <stdio.h>
+
+float taylor(int num){
     float sum = 0;
     for(int i = 1; i<= sum; i++){
         sum = sum + (1/i);
@@ -7,5 +9,5 @@ void taylor(int num){
 }
 
 int main(){
-    print(tylor(10));
+    printf("%f", taylor(10));
 }
