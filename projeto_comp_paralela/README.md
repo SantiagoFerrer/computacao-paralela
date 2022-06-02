@@ -15,4 +15,4 @@
 # Para compilar este arquivo não é necessária entrada, no código ja está pronto para compilar para dar o resultado da série de Taylor de ln(1000)
 #
 # Tempos de compilação dos arquivos para dado T(n):
-#![image](https://user-images.githubusercontent.com/78734407/171701914-41acf318-4e9b-4b7d-9c46-7ba944bb902e.png)
+#![image](https://user-images.githubusercontent.com/78734407/171711791-af2d2b08-1ddd-4fae-9d9f-6b2f594a66d4.png)
