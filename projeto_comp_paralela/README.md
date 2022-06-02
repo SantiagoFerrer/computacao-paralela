@@ -30,5 +30,6 @@
 # Da maneira que foi implementado o código tem o problema de que a partir do T(n) com n = 10^6 tem aumento de tempo e resultados com baixa precisão em comparação ao codigo implementado serialmente
 # OpenMP:
 # Da maneira implementada com 6 threads o código mantém constância nos resultados e tem um speedup de até 4x em números maiores que 10^10, ja entre os valores menores (entre 10 e 10^6) tem um speedup entre 1.25 e 2.
+#![image](https://user-images.githubusercontent.com/78734407/171722815-e5d13556-b5bb-45a9-9558-ea6c303f6e70.png)
 # Tempos de compilação dos arquivos para dado T(n):
 #![image](https://user-images.githubusercontent.com/78734407/171718251-cf931811-000b-4e63-9d2d-157cb3e66c06.png)
